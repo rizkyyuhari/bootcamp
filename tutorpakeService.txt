@@ -1,0 +1,10 @@
+ - donwload dulu node js cari aja di google, ntar ada website officialnya
+- abis itu pull project dari github
+- terus masuk ke terminal project pull-an tadi
+- ketik npm init
+- dah tinggal jalanin servernya pake perintah npm start
+- untuk servicenya ada 2 http method GET ama POST (di satu endpoint)
+- urlnya => localhost:8080/mahasiswa
+- untuk method POST cuma butuh 2 requestbody name ama fakultas
+- get gaada req bodynya, tinggal ambil aja
+- oh ya terakhir jangan lupa import mahasiswa.db ke phpmyadmin, atau platform lainya.
